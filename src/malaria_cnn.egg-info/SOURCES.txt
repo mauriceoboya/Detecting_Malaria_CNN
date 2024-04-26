@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+src/malaria_cnn/__init__.py
+src/malaria_cnn.egg-info/PKG-INFO
+src/malaria_cnn.egg-info/SOURCES.txt
+src/malaria_cnn.egg-info/dependency_links.txt
+src/malaria_cnn.egg-info/top_level.txt
+src/malaria_cnn/components/__init__.py
+src/malaria_cnn/pipeline/__init__.py

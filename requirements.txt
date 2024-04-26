@@ -1,0 +1,6 @@
+pyyaml
+setuptools
+numpy
+matplotlib
+seaborn
+-e .
