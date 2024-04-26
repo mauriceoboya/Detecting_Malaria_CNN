@@ -13,6 +13,7 @@
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 artifacts
+*.env
 # Mono auto generated files
 mono_crash.*
 
@@ -194,6 +195,7 @@ PublishScripts/
 
 # NuGet Packages
 *.nupkg
+.env
 # NuGet Symbol Packages
 *.snupkg
 # The packages folder can be ignored because of Package Restore
