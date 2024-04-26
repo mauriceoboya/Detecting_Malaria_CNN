@@ -3,4 +3,7 @@ setuptools
 numpy
 matplotlib
 seaborn
+box
+joblib
+ensure
 -e .

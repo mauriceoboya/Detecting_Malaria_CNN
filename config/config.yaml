@@ -1,0 +1,7 @@
+artifacts_root: artifacts
+
+data_ingestion:
+  root_dir: artifacts/data_ingestion
+  source_URL:    https://www.kaggle.com/datasets/iarunava/cell-images-for-detecting-malaria/download?datasetVersionNumber=1
+  local_data_file: artifacts/data_ingestion/cell-images-for-detecting-malaria.zip
+  unzip_dir: artifacts/data_ingestion

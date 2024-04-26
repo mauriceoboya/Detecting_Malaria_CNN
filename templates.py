@@ -16,6 +16,7 @@ files=[
     f"src/{project_name}/config/configuraion.py",
     f"src/{project_name}/entity/config_entity.py",
     f"src/{project_name}/utils/common.py",
+    f"src/{project_name}/constant/__init__.py",
     f"src/{project_name}/components/__init__.py",
     f"src/{project_name}/pipeline/__init__.py"
 ]
