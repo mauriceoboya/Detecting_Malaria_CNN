@@ -419,3 +419,25 @@
 2024-05-03 13:19:42,330: Downloading data from iarunava/cell-images-for-detecting-malaria into directory artifacts/data_ingestion: INFO
 2024-05-03 13:19:43,961: Downloaded data from iarunava/cell-images-for-detecting-malaria into directory artifacts/data_ingestion: INFO
 2024-05-03 13:20:17,102: Completed >>> Data Ingestion << stage: INFO
+2024-05-03 15:31:59,963: NumExpr defaulting to 4 threads.: INFO
+2024-05-03 15:32:22,422: yaml file:config/config.yaml load successfully: INFO
+2024-05-03 15:32:22,494: yaml file:params.yaml load successfully: INFO
+2024-05-03 15:33:47,083: yaml file:config/config.yaml load successfully: INFO
+2024-05-03 15:33:47,086: yaml file:params.yaml load successfully: INFO
+2024-05-03 15:37:14,714: yaml file:config/config.yaml load successfully: INFO
+2024-05-03 15:37:15,075: yaml file:params.yaml load successfully: INFO
+2024-05-03 15:38:05,103: yaml file:config/config.yaml load successfully: INFO
+2024-05-03 15:38:05,110: yaml file:params.yaml load successfully: INFO
+2024-05-03 15:38:05,111: Directory artifacts created successfully: INFO
+2024-05-03 15:38:05,288: Directory artifacts/prepare_base_model created successfully: INFO
+2024-05-03 15:38:20,005: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. : WARNING
+2024-05-03 15:38:20,384: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. : WARNING
+2024-05-03 15:53:51,387: NumExpr defaulting to 4 threads.: INFO
+2024-05-03 15:54:05,939: Starting >>> Preparing Base Model << stage: INFO
+2024-05-03 15:54:06,038: yaml file:config/config.yaml load successfully: INFO
+2024-05-03 15:54:06,066: yaml file:params.yaml load successfully: INFO
+2024-05-03 15:54:06,066: Directory artifacts created successfully: INFO
+2024-05-03 15:54:06,066: Directory artifacts/prepare_base_model created successfully: INFO
+2024-05-03 15:54:28,984: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. : WARNING
+2024-05-03 15:54:34,065: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. : WARNING
+2024-05-03 15:54:36,832: Completed >>> Preparing Base Model << stage: INFO
