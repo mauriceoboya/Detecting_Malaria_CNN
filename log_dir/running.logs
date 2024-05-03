@@ -341,3 +341,21 @@
 2024-04-26 17:34:53,835: Directory artifacts created successfully: INFO
 2024-04-26 17:34:53,836: Directory artifacts/data_ingestion created successfully: INFO
 2024-04-26 17:34:53,841: Downloading data from iarunava/cell-images-for-detecting-malaria into directory artifacts/data_ingestion/cell-images-for-detecting-malaria.zip: INFO
+2024-04-27 01:54:08,464: yaml file:config/config.yaml load successfully: INFO
+2024-04-27 01:54:08,636: yaml file:params.yaml load successfully: INFO
+2024-04-27 01:54:08,640: Directory artifacts created successfully: INFO
+2024-04-27 01:54:08,643: Directory artifacts/data_ingestion created successfully: INFO
+2024-04-27 01:54:08,657: Downloading data from iarunava/cell-images-for-detecting-malaria into directory artifacts/data_ingestion: INFO
+2024-04-27 01:54:10,177: Downloaded data from iarunava/cell-images-for-detecting-malaria into directory artifacts/data_ingestion: INFO
+2024-04-30 12:30:15,026: Starting >>> Data Ingestion << stage: INFO
+2024-04-30 12:30:15,077: yaml file:config/config.yaml load successfully: INFO
+2024-04-30 12:30:15,106: yaml file:params.yaml load successfully: INFO
+2024-04-30 12:30:15,106: Directory artifacts created successfully: INFO
+2024-04-30 12:30:15,136: Directory artifacts/data_ingestion created successfully: INFO
+2024-04-30 12:30:15,154: Downloading data from iarunava/cell-images-for-detecting-malaria into directory artifacts/data_ingestion/cell-images-for-detecting-malaria.zip: INFO
+2024-05-03 08:40:09,621: Starting >>> Data Ingestion << stage: INFO
+2024-05-03 08:40:09,656: yaml file:config/config.yaml load successfully: INFO
+2024-05-03 08:40:09,657: yaml file:params.yaml load successfully: INFO
+2024-05-03 08:40:09,657: Directory artifacts created successfully: INFO
+2024-05-03 08:40:09,658: Directory artifacts/data_ingestion created successfully: INFO
+2024-05-03 08:40:09,674: Downloading data from iarunava/cell-images-for-detecting-malaria into directory artifacts/data_ingestion/cell-images-for-detecting-malaria.zip: INFO
