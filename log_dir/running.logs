@@ -441,3 +441,12 @@
 2024-05-03 15:54:28,984: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. : WARNING
 2024-05-03 15:54:34,065: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. : WARNING
 2024-05-03 15:54:36,832: Completed >>> Preparing Base Model << stage: INFO
+2024-05-03 18:14:16,930: NumExpr defaulting to 4 threads.: INFO
+2024-05-03 18:14:23,106: Starting >>> Preparing Base Model << stage: INFO
+2024-05-03 18:14:23,149: yaml file:config/config.yaml load successfully: INFO
+2024-05-03 18:14:23,155: yaml file:params.yaml load successfully: INFO
+2024-05-03 18:14:23,155: Directory artifacts created successfully: INFO
+2024-05-03 18:14:23,180: Directory artifacts/prepare_base_model created successfully: INFO
+2024-05-03 18:14:25,320: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. : WARNING
+2024-05-03 18:14:25,614: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. : WARNING
+2024-05-03 18:14:25,846: Completed >>> Preparing Base Model << stage: INFO

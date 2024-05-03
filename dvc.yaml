@@ -8,10 +8,11 @@ stages:
     - artifacts/data_ingestion/cell_images
   
   prepare_base_model:
-    cmd: python src/malaria_cnn/pipeline/prepare_base_model_pipeline.py
+    cmd: python src/malaria_cnn/pipeline/base_model_pipeline.py
     deps:
-    - src/malaria_cnn/pipeline/prepare_base_model_pipeline.py
+    - src/malaria_cnn/pipeline/base_model_pipeline.py
     - config/config.yaml
+    - params.yaml
     outs:
     -  artifacts/prepare_base_model/base_model.h5
     -  artifacts/prepare_base_model/base_model_updated.h5
