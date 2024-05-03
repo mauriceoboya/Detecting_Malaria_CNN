@@ -359,3 +359,63 @@
 2024-05-03 08:40:09,657: Directory artifacts created successfully: INFO
 2024-05-03 08:40:09,658: Directory artifacts/data_ingestion created successfully: INFO
 2024-05-03 08:40:09,674: Downloading data from iarunava/cell-images-for-detecting-malaria into directory artifacts/data_ingestion/cell-images-for-detecting-malaria.zip: INFO
+2024-05-03 11:46:51,456: yaml file:config/config.yaml load successfully: INFO
+2024-05-03 11:46:51,674: yaml file:params.yaml load successfully: INFO
+2024-05-03 11:46:51,691: Directory artifacts created successfully: INFO
+2024-05-03 11:46:51,692: Directory artifacts/data_ingestion created successfully: INFO
+2024-05-03 11:46:51,700: Downloading data from iarunava/cell-images-for-detecting-malaria into directory artifacts/data_ingestion: INFO
+2024-05-03 11:46:52,795: Downloaded data from iarunava/cell-images-for-detecting-malaria into directory artifacts/data_ingestion: INFO
+2024-05-03 12:00:24,356: yaml file:config/config.yaml load successfully: INFO
+2024-05-03 12:00:24,585: yaml file:params.yaml load successfully: INFO
+2024-05-03 12:00:24,587: Directory artifacts created successfully: INFO
+2024-05-03 12:00:24,588: Directory artifacts/data_ingestion created successfully: INFO
+2024-05-03 12:00:24,643: Downloading data from iarunava/cell-images-for-detecting-malaria into directory artifacts/data_ingestion: INFO
+2024-05-03 12:05:07,202: yaml file:config/config.yaml load successfully: INFO
+2024-05-03 12:05:07,206: yaml file:params.yaml load successfully: INFO
+2024-05-03 12:05:07,210: Directory artifacts created successfully: INFO
+2024-05-03 12:05:07,212: Directory artifacts/data_ingestion created successfully: INFO
+2024-05-03 12:05:07,219: Downloading data from iarunava/cell-images-for-detecting-malaria into directory artifacts/data_ingestion: INFO
+2024-05-03 12:05:28,962: yaml file:config/config.yaml load successfully: INFO
+2024-05-03 12:05:28,967: yaml file:params.yaml load successfully: INFO
+2024-05-03 12:05:28,968: Directory artifacts created successfully: INFO
+2024-05-03 12:05:28,970: Directory artifacts/data_ingestion created successfully: INFO
+2024-05-03 12:05:28,977: Downloading data from iarunava/cell-images-for-detecting-malaria into directory artifacts/data_ingestion: INFO
+2024-05-03 12:34:06,656: Downloaded data from iarunava/cell-images-for-detecting-malaria into directory artifacts/data_ingestion: INFO
+2024-05-03 12:38:08,856: Starting >>> Data Ingestion << stage: INFO
+2024-05-03 12:38:08,875: yaml file:config/config.yaml load successfully: INFO
+2024-05-03 12:38:08,876: yaml file:params.yaml load successfully: INFO
+2024-05-03 12:38:08,877: Directory artifacts created successfully: INFO
+2024-05-03 12:38:08,877: Directory artifacts/data_ingestion created successfully: INFO
+2024-05-03 12:38:08,883: Error downloading data from iarunava/cell-images-for-detecting-malaria into directory artifacts/data_ingestion/cell-images-for-detecting-malaria.zip: ERROR
+2024-05-03 12:38:08,898: Error in Data Ingestion stage: ERROR
+2024-05-03 12:38:08,898: Error in Data Ingestion stage: ERROR
+2024-05-03 12:38:34,142: Starting >>> Data Ingestion << stage: INFO
+2024-05-03 12:38:34,143: yaml file:config/config.yaml load successfully: INFO
+2024-05-03 12:38:34,144: yaml file:params.yaml load successfully: INFO
+2024-05-03 12:38:34,144: Directory artifacts created successfully: INFO
+2024-05-03 12:38:34,144: Directory artifacts/data_ingestion created successfully: INFO
+2024-05-03 12:38:34,149: Error downloading data from iarunava/cell-images-for-detecting-malaria into directory artifacts/data_ingestion/cell-images-for-detecting-malaria.zip: ERROR
+2024-05-03 12:38:34,149: Error in Data Ingestion stage: ERROR
+2024-05-03 12:38:34,149: Error in Data Ingestion stage: ERROR
+2024-05-03 12:39:27,901: Starting >>> Data Ingestion << stage: INFO
+2024-05-03 12:39:27,903: yaml file:config/config.yaml load successfully: INFO
+2024-05-03 12:39:27,904: yaml file:params.yaml load successfully: INFO
+2024-05-03 12:39:27,905: Directory artifacts created successfully: INFO
+2024-05-03 12:39:27,905: Directory artifacts/data_ingestion created successfully: INFO
+2024-05-03 12:39:27,911: Downloading data from iarunava/cell-images-for-detecting-malaria into directory artifacts/data_ingestion/cell-images-for-detecting-malaria.zip: INFO
+2024-05-03 12:42:23,816: Starting >>> Data Ingestion << stage: INFO
+2024-05-03 12:42:23,818: yaml file:config/config.yaml load successfully: INFO
+2024-05-03 12:42:23,819: yaml file:params.yaml load successfully: INFO
+2024-05-03 12:42:23,819: Directory artifacts created successfully: INFO
+2024-05-03 12:42:23,819: Directory artifacts/data_ingestion created successfully: INFO
+2024-05-03 12:42:23,823: Downloading data from iarunava/cell-images-for-detecting-malaria into directory artifacts/data_ingestion: INFO
+2024-05-03 13:17:40,591: Downloaded data from iarunava/cell-images-for-detecting-malaria into directory artifacts/data_ingestion: INFO
+2024-05-03 13:18:16,229: Completed >>> Data Ingestion << stage: INFO
+2024-05-03 13:19:42,321: Starting >>> Data Ingestion << stage: INFO
+2024-05-03 13:19:42,323: yaml file:config/config.yaml load successfully: INFO
+2024-05-03 13:19:42,324: yaml file:params.yaml load successfully: INFO
+2024-05-03 13:19:42,324: Directory artifacts created successfully: INFO
+2024-05-03 13:19:42,324: Directory artifacts/data_ingestion created successfully: INFO
+2024-05-03 13:19:42,330: Downloading data from iarunava/cell-images-for-detecting-malaria into directory artifacts/data_ingestion: INFO
+2024-05-03 13:19:43,961: Downloaded data from iarunava/cell-images-for-detecting-malaria into directory artifacts/data_ingestion: INFO
+2024-05-03 13:20:17,102: Completed >>> Data Ingestion << stage: INFO

@@ -9,15 +9,14 @@ class DataIngestionPipeline:
         pass
     def main(self):
         try:
-            config=ConfigurationManager()
-            data_ingestion_config=config.get_data_ingestion_config()
-            data_ingestion=DataIngestion(config=data_ingestion_config)
-            data_ingestion.download_file()
-            data_ingestion.extract_zip_file()
+          config=ConfigurationManager()
+          data_ingestion_config=config.get_data_ingestion_config()
+          data_ingestion=DataIngestion(config=data_ingestion_config)
+          data_ingestion.download_file()
+          data_ingestion.extract_zip_file()
         except Exception as e:
-            logger.error(f"Error in {STAGE1} stage")
-            raise e
-        
+         raise e
+            
     
 if __name__=='__main__':
     try:
@@ -28,3 +27,6 @@ if __name__=='__main__':
     except Exception as e:
         logger.error(f"Error in {STAGE1} stage")
         raise e
+    
+
+

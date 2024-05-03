@@ -5,4 +5,4 @@ stages:
     - src/malaria_cnn/pipeline/data_ingestion_pipeline.py
     - config/config.yaml
     outs:
-    - artifacts/data_ingestion/cell-images-for-detecting-malaria
+    - artifacts/data_ingestion/cell_images

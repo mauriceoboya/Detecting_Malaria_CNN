@@ -1,0 +1,19 @@
+schema: '2.0'
+stages:
+  data_ingestion:
+    cmd: python src/malaria_cnn/pipeline/data_ingestion_pipeline.py
+    deps:
+    - path: config/config.yaml
+      hash: md5
+      md5: c3561a9afea859d5aa1ecc9460683388
+      size: 324
+    - path: src/malaria_cnn/pipeline/data_ingestion_pipeline.py
+      hash: md5
+      md5: 3cd7a6e067b5aa35c19b50991579d519
+      size: 951
+    outs:
+    - path: artifacts/data_ingestion/cell_images
+      hash: md5
+      md5: 8e0db3f27f566711e0d69b60b9453e9d.dir
+      size: 701905178
+      nfiles: 55120

@@ -17,12 +17,10 @@ class DataIngestion:
     def download_file(self):
         try:
             dataset_id = "iarunava/cell-images-for-detecting-malaria"
-            zip_download_dir = self.config.local_data_file
-            os.makedirs(zip_download_dir, exist_ok=True)  
+            zip_download_dir = os.path.dirname(self.config.local_data_file)  # Extract directory path
+            os.makedirs(zip_download_dir, exist_ok=True)  # Ensure directory exists
             logger.info(f"Downloading data from {dataset_id} into directory {zip_download_dir}")
-     
-            self.api.dataset_download_files(dataset=dataset_id, path=zip_download_dir)
-
+            self.api.dataset_download_files(dataset =dataset_id, path=zip_download_dir, unzip=False)
             logger.info(f"Downloaded data from {dataset_id} into directory {zip_download_dir}")
         except Exception as e:
             logger.error(f"Error downloading data from {dataset_id} into directory {zip_download_dir}")
