@@ -694,3 +694,12 @@ ValueError: Unknown variable: <KerasVariable shape=(25088, 2), dtype=float32, pa
 2024-05-06 08:49:30,394: Directory artifacts/prepare_callbacks/tensorboard_log_dir created successfully: INFO
 2024-05-06 08:49:30,398: Directory artifacts/training created successfully: INFO
 2024-05-06 08:49:30,764: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.: WARNING
+2024-05-06 12:56:59,445: NumExpr defaulting to 4 threads.: INFO
+2024-05-06 12:57:02,142: Starting >>> model training << stage: INFO
+2024-05-06 12:57:02,157: yaml file:config/config.yaml load successfully: INFO
+2024-05-06 12:57:02,159: yaml file:params.yaml load successfully: INFO
+2024-05-06 12:57:02,159: Directory artifacts created successfully: INFO
+2024-05-06 12:57:02,160: Directory artifacts/prepare_callbacks/checkpoint_dir created successfully: INFO
+2024-05-06 12:57:02,160: Directory artifacts/prepare_callbacks/tensorboard_log_dir created successfully: INFO
+2024-05-06 12:57:02,160: Directory artifacts/training created successfully: INFO
+2024-05-06 12:57:04,109: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.: WARNING
