@@ -450,3 +450,247 @@
 2024-05-03 18:14:25,320: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. : WARNING
 2024-05-03 18:14:25,614: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. : WARNING
 2024-05-03 18:14:25,846: Completed >>> Preparing Base Model << stage: INFO
+2024-05-06 07:45:12,726: NumExpr defaulting to 4 threads.: INFO
+2024-05-06 08:03:15,783: yaml file:config/config.yaml load successfully: INFO
+2024-05-06 08:03:15,818: yaml file:params.yaml load successfully: INFO
+2024-05-06 08:03:15,860: Directory artifacts created successfully: INFO
+2024-05-06 08:04:40,381: yaml file:config/config.yaml load successfully: INFO
+2024-05-06 08:04:40,386: yaml file:params.yaml load successfully: INFO
+2024-05-06 08:04:40,388: Directory artifacts created successfully: INFO
+2024-05-06 08:04:40,439: Directory artifacts/training created successfully: INFO
+2024-05-06 08:04:42,089: yaml file:config/config.yaml load successfully: INFO
+2024-05-06 08:04:42,093: yaml file:params.yaml load successfully: INFO
+2024-05-06 08:04:42,095: Directory artifacts created successfully: INFO
+2024-05-06 08:04:42,097: Directory artifacts/training created successfully: INFO
+2024-05-06 08:07:16,708: yaml file:config/config.yaml load successfully: INFO
+2024-05-06 08:07:16,713: yaml file:params.yaml load successfully: INFO
+2024-05-06 08:07:16,715: Directory artifacts created successfully: INFO
+2024-05-06 08:07:16,717: Directory artifacts/training created successfully: INFO
+2024-05-06 08:10:40,711: yaml file:config/config.yaml load successfully: INFO
+2024-05-06 08:10:40,716: yaml file:params.yaml load successfully: INFO
+2024-05-06 08:10:40,718: Directory artifacts created successfully: INFO
+2024-05-06 08:10:40,721: Directory artifacts/training created successfully: INFO
+2024-05-06 08:10:42,225: yaml file:config/config.yaml load successfully: INFO
+2024-05-06 08:10:42,231: yaml file:params.yaml load successfully: INFO
+2024-05-06 08:10:42,233: Directory artifacts created successfully: INFO
+2024-05-06 08:10:42,235: Directory artifacts/training created successfully: INFO
+2024-05-06 08:10:43,226: yaml file:config/config.yaml load successfully: INFO
+2024-05-06 08:10:43,230: yaml file:params.yaml load successfully: INFO
+2024-05-06 08:10:43,232: Directory artifacts created successfully: INFO
+2024-05-06 08:10:43,234: Directory artifacts/training created successfully: INFO
+2024-05-06 08:10:57,864: yaml file:config/config.yaml load successfully: INFO
+2024-05-06 08:10:57,869: yaml file:params.yaml load successfully: INFO
+2024-05-06 08:10:57,871: Directory artifacts created successfully: INFO
+2024-05-06 08:10:57,872: Directory artifacts/training created successfully: INFO
+2024-05-06 08:10:58,751: yaml file:config/config.yaml load successfully: INFO
+2024-05-06 08:10:58,754: yaml file:params.yaml load successfully: INFO
+2024-05-06 08:10:58,756: Directory artifacts created successfully: INFO
+2024-05-06 08:10:58,757: Directory artifacts/training created successfully: INFO
+2024-05-06 08:10:59,522: yaml file:config/config.yaml load successfully: INFO
+2024-05-06 08:10:59,527: yaml file:params.yaml load successfully: INFO
+2024-05-06 08:10:59,528: Directory artifacts created successfully: INFO
+2024-05-06 08:10:59,530: Directory artifacts/training created successfully: INFO
+2024-05-06 08:12:10,934: NumExpr defaulting to 4 threads.: INFO
+2024-05-06 08:12:12,828: yaml file:config/config.yaml load successfully: INFO
+2024-05-06 08:12:12,833: yaml file:params.yaml load successfully: INFO
+2024-05-06 08:12:12,834: Directory artifacts created successfully: INFO
+2024-05-06 08:12:12,836: Directory artifacts/training created successfully: INFO
+2024-05-06 08:15:02,501: yaml file:config/config.yaml load successfully: INFO
+2024-05-06 08:15:02,506: yaml file:params.yaml load successfully: INFO
+2024-05-06 08:15:02,509: Directory artifacts created successfully: INFO
+2024-05-06 08:15:02,511: Directory artifacts/training created successfully: INFO
+2024-05-06 08:15:03,863: yaml file:config/config.yaml load successfully: INFO
+2024-05-06 08:15:03,867: yaml file:params.yaml load successfully: INFO
+2024-05-06 08:15:03,870: Directory artifacts created successfully: INFO
+2024-05-06 08:15:03,871: Directory artifacts/training created successfully: INFO
+2024-05-06 08:15:47,994: yaml file:config/config.yaml load successfully: INFO
+2024-05-06 08:15:47,998: yaml file:params.yaml load successfully: INFO
+2024-05-06 08:15:48,000: Directory artifacts created successfully: INFO
+2024-05-06 08:15:48,001: Directory artifacts/training created successfully: INFO
+2024-05-06 08:15:48,751: yaml file:config/config.yaml load successfully: INFO
+2024-05-06 08:15:48,755: yaml file:params.yaml load successfully: INFO
+2024-05-06 08:15:48,756: Directory artifacts created successfully: INFO
+2024-05-06 08:15:48,758: Directory artifacts/training created successfully: INFO
+2024-05-06 08:15:49,008: yaml file:config/config.yaml load successfully: INFO
+2024-05-06 08:15:49,012: yaml file:params.yaml load successfully: INFO
+2024-05-06 08:15:49,014: Directory artifacts created successfully: INFO
+2024-05-06 08:15:49,016: Directory artifacts/training created successfully: INFO
+2024-05-06 08:15:49,373: yaml file:config/config.yaml load successfully: INFO
+2024-05-06 08:15:49,381: yaml file:params.yaml load successfully: INFO
+2024-05-06 08:15:49,383: Directory artifacts created successfully: INFO
+2024-05-06 08:15:49,385: Directory artifacts/training created successfully: INFO
+2024-05-06 08:15:50,126: yaml file:config/config.yaml load successfully: INFO
+2024-05-06 08:15:50,133: yaml file:params.yaml load successfully: INFO
+2024-05-06 08:15:50,135: Directory artifacts created successfully: INFO
+2024-05-06 08:15:50,137: Directory artifacts/training created successfully: INFO
+2024-05-06 08:25:35,079: yaml file:config/config.yaml load successfully: INFO
+2024-05-06 08:25:35,100: yaml file:params.yaml load successfully: INFO
+2024-05-06 08:25:35,101: Directory artifacts created successfully: INFO
+2024-05-06 08:25:35,104: Directory artifacts/training created successfully: INFO
+2024-05-06 08:26:12,640: yaml file:config/config.yaml load successfully: INFO
+2024-05-06 08:26:12,647: yaml file:params.yaml load successfully: INFO
+2024-05-06 08:26:12,649: Directory artifacts created successfully: INFO
+2024-05-06 08:26:12,651: Directory artifacts/training created successfully: INFO
+2024-05-06 08:26:13,427: yaml file:config/config.yaml load successfully: INFO
+2024-05-06 08:26:13,433: yaml file:params.yaml load successfully: INFO
+2024-05-06 08:26:13,435: Directory artifacts created successfully: INFO
+2024-05-06 08:26:13,437: Directory artifacts/training created successfully: INFO
+2024-05-06 08:28:48,868: yaml file:config/config.yaml load successfully: INFO
+2024-05-06 08:28:48,874: yaml file:params.yaml load successfully: INFO
+2024-05-06 08:28:48,877: Directory artifacts created successfully: INFO
+2024-05-06 08:28:48,880: "'ConfigBox' object has no attribute 'prepare_callbacks'": ERROR
+Traceback (most recent call last):
+  File "/home/fibonacci/anaconda3/lib/python3.11/site-packages/box/box.py", line 503, in __getitem__
+    return super().__getitem__(item)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyError: 'prepare_callbacks'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/fibonacci/anaconda3/lib/python3.11/site-packages/box/box.py", line 536, in __getattr__
+    value = self.__getitem__(item, _ignore_default=True)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/fibonacci/anaconda3/lib/python3.11/site-packages/box/box.py", line 524, in __getitem__
+    raise BoxKeyError(str(err)) from _exception_cause(err)
+box.exceptions.BoxKeyError: "'prepare_callbacks'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/fibonacci/anaconda3/lib/python3.11/site-packages/box/box.py", line 538, in __getattr__
+    value = object.__getattribute__(self, item)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ConfigBox' object has no attribute 'prepare_callbacks'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/fibonacci/anaconda3/lib/python3.11/site-packages/box/config_box.py", line 28, in __getattr__
+    return super().__getattr__(item)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/fibonacci/anaconda3/lib/python3.11/site-packages/box/box.py", line 552, in __getattr__
+    raise BoxKeyError(str(err)) from _exception_cause(err)
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'prepare_callbacks'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/fibonacci/anaconda3/lib/python3.11/site-packages/box/box.py", line 503, in __getitem__
+    return super().__getitem__(item)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyError: 'prepare_callbacks'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/fibonacci/anaconda3/lib/python3.11/site-packages/box/box.py", line 536, in __getattr__
+    value = self.__getitem__(item, _ignore_default=True)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/fibonacci/anaconda3/lib/python3.11/site-packages/box/box.py", line 524, in __getitem__
+    raise BoxKeyError(str(err)) from _exception_cause(err)
+box.exceptions.BoxKeyError: "'prepare_callbacks'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/fibonacci/anaconda3/lib/python3.11/site-packages/box/box.py", line 538, in __getattr__
+    value = object.__getattribute__(self, item)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ConfigBox' object has no attribute 'prepare_callbacks'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/tmp/ipykernel_24438/210258596.py", line 3, in <module>
+    prepare_callbacks_config=config.get_prepare_callbacks_config()
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/tmp/ipykernel_24438/2096671465.py", line 10, in get_prepare_callbacks_config
+    config=self.config.prepare_callbacks
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/fibonacci/anaconda3/lib/python3.11/site-packages/box/config_box.py", line 30, in __getattr__
+    return super().__getattr__(item.lower())
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/fibonacci/anaconda3/lib/python3.11/site-packages/box/box.py", line 552, in __getattr__
+    raise BoxKeyError(str(err)) from _exception_cause(err)
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'prepare_callbacks'"
+2024-05-06 08:29:37,913: yaml file:config/config.yaml load successfully: INFO
+2024-05-06 08:29:37,916: yaml file:params.yaml load successfully: INFO
+2024-05-06 08:29:37,917: Directory artifacts created successfully: INFO
+2024-05-06 08:29:37,920: Directory artifacts/prepare_callbacks/checkpoint_dir created successfully: INFO
+2024-05-06 08:29:37,924: Directory artifacts/prepare_callbacks/tensorboard_log_dir created successfully: INFO
+2024-05-06 08:29:37,925: When using `save_weights_only=True` in `ModelCheckpoint`, the filepath provided must end in `.weights.h5` (Keras weights format). Received: filepath=artifacts/prepare_callbacks/checkpoint_dir/model.h5: ERROR
+Traceback (most recent call last):
+  File "/tmp/ipykernel_24438/210258596.py", line 5, in <module>
+    callbacks_list=prepare_callbacks.get_tb_ckpt_callbacks()
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/tmp/ipykernel_24438/873553894.py", line 24, in get_tb_ckpt_callbacks
+    self._create_ckpt_callbacks
+  File "/tmp/ipykernel_24438/873553894.py", line 16, in _create_ckpt_callbacks
+    return tf.keras.callbacks.ModelCheckpoint(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/fibonacci/anaconda3/lib/python3.11/site-packages/keras/src/callbacks/model_checkpoint.py", line 183, in __init__
+    raise ValueError(
+ValueError: When using `save_weights_only=True` in `ModelCheckpoint`, the filepath provided must end in `.weights.h5` (Keras weights format). Received: filepath=artifacts/prepare_callbacks/checkpoint_dir/model.h5
+2024-05-06 08:34:30,168: yaml file:config/config.yaml load successfully: INFO
+2024-05-06 08:34:30,173: yaml file:params.yaml load successfully: INFO
+2024-05-06 08:34:30,175: Directory artifacts created successfully: INFO
+2024-05-06 08:34:30,176: Directory artifacts/prepare_callbacks/checkpoint_dir created successfully: INFO
+2024-05-06 08:34:30,180: Directory artifacts/prepare_callbacks/tensorboard_log_dir created successfully: INFO
+2024-05-06 08:34:30,183: Directory artifacts/training created successfully: INFO
+2024-05-06 08:34:32,219: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.: WARNING
+2024-05-06 08:34:36,670: Arguments `target` and `output` must have the same shape. Received: target.shape=(None, 3), output.shape=(None, 2): ERROR
+Traceback (most recent call last):
+  File "/tmp/ipykernel_24438/210258596.py", line 11, in <module>
+    training.train(callback_list=callbacks_list)
+  File "/tmp/ipykernel_24438/1790166205.py", line 55, in train
+    self.model.fit(
+  File "/home/fibonacci/anaconda3/lib/python3.11/site-packages/keras/src/utils/traceback_utils.py", line 122, in error_handler
+    raise e.with_traceback(filtered_tb) from None
+  File "/home/fibonacci/anaconda3/lib/python3.11/site-packages/keras/src/backend/tensorflow/nn.py", line 554, in categorical_crossentropy
+    raise ValueError(
+ValueError: Arguments `target` and `output` must have the same shape. Received: target.shape=(None, 3), output.shape=(None, 2)
+2024-05-06 08:36:04,640: yaml file:config/config.yaml load successfully: INFO
+2024-05-06 08:36:04,645: yaml file:params.yaml load successfully: INFO
+2024-05-06 08:36:04,649: Directory artifacts created successfully: INFO
+2024-05-06 08:36:04,652: Directory artifacts/prepare_callbacks/checkpoint_dir created successfully: INFO
+2024-05-06 08:36:04,654: Directory artifacts/prepare_callbacks/tensorboard_log_dir created successfully: INFO
+2024-05-06 08:36:04,659: Directory artifacts/training created successfully: INFO
+2024-05-06 08:36:05,026: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.: WARNING
+2024-05-06 08:36:08,890: Unknown variable: <KerasVariable shape=(25088, 2), dtype=float32, path=dense/kernel>. This optimizer can only be called for the variables it was originally built with. When working with a new set of variables, you should recreate a new optimizer instance.: ERROR
+Traceback (most recent call last):
+  File "/tmp/ipykernel_24438/210258596.py", line 11, in <module>
+    training.train(callback_list=callbacks_list)
+  File "/tmp/ipykernel_24438/1790166205.py", line 55, in train
+    self.model.fit(
+  File "/home/fibonacci/anaconda3/lib/python3.11/site-packages/keras/src/utils/traceback_utils.py", line 122, in error_handler
+    raise e.with_traceback(filtered_tb) from None
+  File "/home/fibonacci/anaconda3/lib/python3.11/site-packages/keras/src/optimizers/base_optimizer.py", line 228, in _check_variables_are_known
+    raise ValueError(
+ValueError: Unknown variable: <KerasVariable shape=(25088, 2), dtype=float32, path=dense/kernel>. This optimizer can only be called for the variables it was originally built with. When working with a new set of variables, you should recreate a new optimizer instance.
+2024-05-06 08:44:47,174: NumExpr defaulting to 4 threads.: INFO
+2024-05-06 08:44:51,947: yaml file:config/config.yaml load successfully: INFO
+2024-05-06 08:44:52,006: yaml file:params.yaml load successfully: INFO
+2024-05-06 08:44:52,009: Directory artifacts created successfully: INFO
+2024-05-06 08:44:52,011: Directory artifacts/prepare_callbacks/checkpoint_dir created successfully: INFO
+2024-05-06 08:44:52,014: Directory artifacts/prepare_callbacks/tensorboard_log_dir created successfully: INFO
+2024-05-06 08:44:52,017: Directory artifacts/training created successfully: INFO
+2024-05-06 08:44:52,501: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.: WARNING
+2024-05-06 08:44:55,978: Unknown variable: <KerasVariable shape=(25088, 2), dtype=float32, path=dense/kernel>. This optimizer can only be called for the variables it was originally built with. When working with a new set of variables, you should recreate a new optimizer instance.: ERROR
+Traceback (most recent call last):
+  File "/tmp/ipykernel_33229/210258596.py", line 11, in <module>
+    training.train(callback_list=callbacks_list)
+  File "/tmp/ipykernel_33229/1790166205.py", line 55, in train
+    self.model.fit(
+  File "/home/fibonacci/anaconda3/lib/python3.11/site-packages/keras/src/utils/traceback_utils.py", line 122, in error_handler
+    raise e.with_traceback(filtered_tb) from None
+  File "/home/fibonacci/anaconda3/lib/python3.11/site-packages/keras/src/optimizers/base_optimizer.py", line 228, in _check_variables_are_known
+    raise ValueError(
+ValueError: Unknown variable: <KerasVariable shape=(25088, 2), dtype=float32, path=dense/kernel>. This optimizer can only be called for the variables it was originally built with. When working with a new set of variables, you should recreate a new optimizer instance.
+2024-05-06 08:49:30,383: yaml file:config/config.yaml load successfully: INFO
+2024-05-06 08:49:30,387: yaml file:params.yaml load successfully: INFO
+2024-05-06 08:49:30,390: Directory artifacts created successfully: INFO
+2024-05-06 08:49:30,392: Directory artifacts/prepare_callbacks/checkpoint_dir created successfully: INFO
+2024-05-06 08:49:30,394: Directory artifacts/prepare_callbacks/tensorboard_log_dir created successfully: INFO
+2024-05-06 08:49:30,398: Directory artifacts/training created successfully: INFO
+2024-05-06 08:49:30,764: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.: WARNING
