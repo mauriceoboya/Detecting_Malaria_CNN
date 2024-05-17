@@ -703,3 +703,29 @@ ValueError: Unknown variable: <KerasVariable shape=(25088, 2), dtype=float32, pa
 2024-05-06 12:57:02,160: Directory artifacts/prepare_callbacks/tensorboard_log_dir created successfully: INFO
 2024-05-06 12:57:02,160: Directory artifacts/training created successfully: INFO
 2024-05-06 12:57:04,109: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.: WARNING
+2024-05-17 06:33:34,576: Starting >>> Data Ingestion << stage: INFO
+2024-05-17 06:33:34,616: yaml file:config/config.yaml load successfully: INFO
+2024-05-17 06:33:34,621: yaml file:params.yaml load successfully: INFO
+2024-05-17 06:33:34,622: Directory artifacts created successfully: INFO
+2024-05-17 06:33:34,622: Directory artifacts/data_ingestion created successfully: INFO
+2024-05-17 06:33:34,628: Downloading data from iarunava/cell-images-for-detecting-malaria into directory artifacts/data_ingestion: INFO
+2024-05-17 06:33:40,075: Downloaded data from iarunava/cell-images-for-detecting-malaria into directory artifacts/data_ingestion: INFO
+2024-05-17 06:34:18,780: Completed >>> Data Ingestion << stage: INFO
+2024-05-17 07:01:19,188: NumExpr defaulting to 4 threads.: INFO
+2024-05-17 07:01:29,208: Starting >>> Preparing Base Model << stage: INFO
+2024-05-17 07:01:29,255: yaml file:config/config.yaml load successfully: INFO
+2024-05-17 07:01:29,257: yaml file:params.yaml load successfully: INFO
+2024-05-17 07:01:29,258: Directory artifacts created successfully: INFO
+2024-05-17 07:01:29,258: Directory artifacts/prepare_base_model created successfully: INFO
+2024-05-17 07:01:39,415: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. : WARNING
+2024-05-17 07:01:39,569: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. : WARNING
+2024-05-17 07:01:39,679: Completed >>> Preparing Base Model << stage: INFO
+2024-05-17 07:05:27,881: NumExpr defaulting to 4 threads.: INFO
+2024-05-17 07:05:28,107: Starting >>> model training << stage: INFO
+2024-05-17 07:05:28,111: yaml file:config/config.yaml load successfully: INFO
+2024-05-17 07:05:28,113: yaml file:params.yaml load successfully: INFO
+2024-05-17 07:05:28,113: Directory artifacts created successfully: INFO
+2024-05-17 07:05:28,470: Directory artifacts/prepare_callbacks/checkpoint_dir created successfully: INFO
+2024-05-17 07:05:28,470: Directory artifacts/prepare_callbacks/tensorboard_log_dir created successfully: INFO
+2024-05-17 07:05:28,471: Directory artifacts/training created successfully: INFO
+2024-05-17 07:05:29,248: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.: WARNING

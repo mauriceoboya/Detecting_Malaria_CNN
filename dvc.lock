@@ -5,8 +5,8 @@ stages:
     deps:
     - path: config/config.yaml
       hash: md5
-      md5: 4024d7ca7567a6e60f338ba04b2105bb
-      size: 522
+      md5: c3db4883094d413d87b4f548a26408f5
+      size: 899
     - path: src/malaria_cnn/pipeline/data_ingestion_pipeline.py
       hash: md5
       md5: 3cd7a6e067b5aa35c19b50991579d519
@@ -22,12 +22,12 @@ stages:
     deps:
     - path: config/config.yaml
       hash: md5
-      md5: 4024d7ca7567a6e60f338ba04b2105bb
-      size: 522
+      md5: c3db4883094d413d87b4f548a26408f5
+      size: 899
     - path: params.yaml
       hash: md5
-      md5: 6b361b1fa3946d3d3dc60c4ab3fed136
-      size: 137
+      md5: f245f198e185d8ba36d3844762e015ed
+      size: 136
     - path: src/malaria_cnn/pipeline/base_model_pipeline.py
       hash: md5
       md5: 10b381a314a8eb09de9ac2705ecffc6b
@@ -39,5 +39,5 @@ stages:
       size: 58924336
     - path: artifacts/prepare_base_model/base_model_updated.h5
       hash: md5
-      md5: 0fde38a9135584158d687e0e3ab008be
+      md5: 13cd8ba917988d832a10692fdab9dd2b
       size: 59143624
