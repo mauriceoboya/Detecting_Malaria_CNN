@@ -729,3 +729,4 @@ ValueError: Unknown variable: <KerasVariable shape=(25088, 2), dtype=float32, pa
 2024-05-17 07:05:28,470: Directory artifacts/prepare_callbacks/tensorboard_log_dir created successfully: INFO
 2024-05-17 07:05:28,471: Directory artifacts/training created successfully: INFO
 2024-05-17 07:05:29,248: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.: WARNING
+2024-05-18 06:03:57,687: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. : WARNING
