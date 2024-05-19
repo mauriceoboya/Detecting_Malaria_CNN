@@ -24,3 +24,5 @@ stages:
     - config/config.yaml
     - params.yaml
     - artifacts/prepare_base_model/base_model.h5
+    outs:
+    -  artifacts/training/model.h5
