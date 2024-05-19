@@ -1,6 +1,6 @@
 from malaria_cnn.utils.common import read_yaml,create_directories
 from malaria_cnn.constant import CONFIG_FILE_PATH,PARAMS_FILE_PATH
-from malaria_cnn.entity.config_entity import DataIngestionConfig,PrepareBaseModelConfig,PrepareCallbacksConfig,TrainingConfig
+from malaria_cnn.entity.config_entity import DataIngestionConfig,PrepareBaseModelConfig,PrepareCallbacksConfig,TrainingConfig,EvaluationConfig
 from pathlib import Path
 import os
 
@@ -73,4 +73,14 @@ class ConfigurationManager:
             params_image_size=params.IMAGE_SIZE
         )
         return training_config
+    
+    def get_validation_config(self) -> EvaluationConfig:
+        eval_config = EvaluationConfig(
+            path_of_model='artifacts/training/model.h5',
+            training_data='artifacts/data_ingestion/cell_images/cell_images',
+            all_params=self.params,
+            params_image_size=self.params.IMAGE_SIZE[:-1],
+            params_batch_size=self.params.BATCH_SIZE
+        )
+        return eval_config
 
