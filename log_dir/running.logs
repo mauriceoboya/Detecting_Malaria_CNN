@@ -747,3 +747,10 @@ ValueError: Unknown variable: <KerasVariable shape=(25088, 2), dtype=float32, pa
 2024-05-19 10:07:30,744: yaml file:params.yaml load successfully: INFO
 2024-05-19 10:07:30,748: Directory artifacts created successfully: INFO
 2024-05-19 10:07:32,270: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.: WARNING
+2024-05-19 13:22:45,259: NumExpr defaulting to 4 threads.: INFO
+2024-05-19 13:22:51,878: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.: WARNING
+2024-05-19 13:22:51,886: Starting >>> model evaluation << stage: INFO
+2024-05-19 13:22:51,980: yaml file:config/config.yaml load successfully: INFO
+2024-05-19 13:22:52,016: yaml file:params.yaml load successfully: INFO
+2024-05-19 13:22:52,017: Directory artifacts created successfully: INFO
+2024-05-19 13:22:53,840: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.: WARNING

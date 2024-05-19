@@ -25,4 +25,13 @@ stages:
     - params.yaml
     - artifacts/prepare_base_model/base_model.h5
     outs:
-    -  artifacts/training/model.h5
+    - artifacts/training/model.h5
+
+  model_evaluation:
+   cmd: python src/malaria_cnn/pipeline/model_evaluation_pipeline.py
+
+   deps:
+    - src/malaria_cnn/pipeline/model_evaluation_pipeline.py
+    - config/config.yaml
+    - artifacts/training/model.h5
+    - params.yaml
