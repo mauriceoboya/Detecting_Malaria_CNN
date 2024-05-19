@@ -730,3 +730,20 @@ ValueError: Unknown variable: <KerasVariable shape=(25088, 2), dtype=float32, pa
 2024-05-17 07:05:28,471: Directory artifacts/training created successfully: INFO
 2024-05-17 07:05:29,248: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.: WARNING
 2024-05-18 06:03:57,687: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. : WARNING
+2024-05-19 09:54:05,804: NumExpr defaulting to 4 threads.: INFO
+2024-05-19 09:54:11,382: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.: WARNING
+2024-05-19 09:55:17,596: NumExpr defaulting to 4 threads.: INFO
+2024-05-19 09:55:19,731: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.: WARNING
+2024-05-19 10:05:08,272: yaml file:config/config.yaml load successfully: INFO
+2024-05-19 10:05:08,373: yaml file:params.yaml load successfully: INFO
+2024-05-19 10:05:08,375: Directory artifacts created successfully: INFO
+2024-05-19 10:07:02,566: yaml file:config/config.yaml load successfully: INFO
+2024-05-19 10:07:02,572: yaml file:params.yaml load successfully: INFO
+2024-05-19 10:07:02,575: Directory artifacts created successfully: INFO
+2024-05-19 10:07:03,569: yaml file:config/config.yaml load successfully: INFO
+2024-05-19 10:07:03,575: yaml file:params.yaml load successfully: INFO
+2024-05-19 10:07:03,578: Directory artifacts created successfully: INFO
+2024-05-19 10:07:30,736: yaml file:config/config.yaml load successfully: INFO
+2024-05-19 10:07:30,744: yaml file:params.yaml load successfully: INFO
+2024-05-19 10:07:30,748: Directory artifacts created successfully: INFO
+2024-05-19 10:07:32,270: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.: WARNING
